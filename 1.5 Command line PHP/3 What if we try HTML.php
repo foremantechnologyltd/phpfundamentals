@@ -1,4 +1,4 @@
-<?= "Welcome to the PHP command line processor, this example demonstrates that you can run PHP directly from a command line, terminal, or linux BASH." ?>
+php_check_syntax<?= "Welcome to the PHP command line processor, this example demonstrates that you can run PHP directly from a command line, terminal, or linux BASH." ?>
 <?php
     /*
         We know that outputting HTML from PHP to a web browser means that those elements are rendered.
