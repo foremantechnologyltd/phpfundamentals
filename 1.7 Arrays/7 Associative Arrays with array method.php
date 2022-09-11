@@ -14,14 +14,8 @@
         $days['sun'] = 'Sunday';
 
 */
-    $days['sun'] = 'Sunday';
-    $days['mon'] = 'Monday';
-    $days['tue'] = 'Tuesday';
-    $days['wed'] = 'Wednesday';
-    $days['thur'] = 'Thursday';
-    $days['fri'] = 'Friday';
-    $days['sat'] = 'Saturday';
-
+    $days = array( 'sun' => 'Sunday', 'mon'=> 'Monday', 'tue' => 'Tuesday', 'wed' => 'Wednesday', 'thur' => 'Thursday', 'fri' => 'Friday', 'sat' => 'Saturday' );
+    
 ?>
 
 <!doctype html>
