@@ -1,9 +1,10 @@
 <?php
     // Variables can be inserted into strings. We will first create some.
-    $name = "Daniel";
-    $age = 42;
-    $hobby = "PHP";
-    $cost = 0;
+    $name = "Daniel"; // String
+    $age = 42; // Integer
+    $exercise = "Jogging"; // String
+    $weight = 95.6; // Float
+    $loss = 0.6; // Float
 ?>
 
 <!doctype html>
