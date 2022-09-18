@@ -20,7 +20,7 @@
             <input id=name placeholder='enter your name' name='userName'><br>
             <label for=age>What is your age?</label><br>
             <input id=age placeholder='enter your age' name='userAge'><br>
-            <label for=message>What is your name?</label><br>
+            <label for=message>What is your message?</label><br>
             <input id=message placeholder='enter your message' name='userMessage'><br>
             <input type="submit">
         </form>
